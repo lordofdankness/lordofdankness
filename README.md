@@ -1,8 +1,5 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="200"/>
-  <div id="badges">
-  <img src="https://komarev.com/ghpvc/?username=lordofdankness&style=flat-square&color=blue" alt=""/>
-  </div>
 </div>
 
 ---
