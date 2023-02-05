@@ -3,7 +3,7 @@
 </div>
 
 ---
-- :telescope: I’m working as a freelance Software Engineer.
+- :telescope: I’m working as a freelance Software Developer.
 
 - :zap: In my free time, I like to experiment with computer graphics and game dev.
 
